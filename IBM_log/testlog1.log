@@ -1,4 +1,9 @@
-2022-12-05 11:59:53,005 [main] INFO NOP Comm Application Module - launching applicaiton on browser : chrome
-2022-12-05 11:59:53,012 [main] INFO NOP Comm Application Module - browser launched
-2022-12-05 11:59:58,013 [main] INFO NOP Comm Application Module - Application URL https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
-2022-12-05 12:00:28,599 [main] INFO NOP Comm Application Module - closing app
+2022-11-22 23:13:58,437 [main] INFO Amazon App Module - launching the application
+2022-11-22 23:13:58,448 [main] INFO Amazon App Module - login test case
+2022-11-22 23:13:58,449 [main] INFO Amazon App Module - closing the application
+2022-11-24 05:47:20,855 [main] INFO Amazon App Module - launching the application
+2022-11-24 05:47:20,862 [main] INFO Amazon App Module - login test case
+2022-11-24 05:47:20,862 [main] INFO Amazon App Module - closing the application
+2022-11-24 07:42:47,629 [main] INFO Amazon App Module - launching the application
+2022-11-24 07:42:47,666 [main] INFO Amazon App Module - login test case
+2022-11-24 07:42:47,666 [main] INFO Amazon App Module - closing the application
